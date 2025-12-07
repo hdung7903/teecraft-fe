@@ -90,11 +90,11 @@ export function AdminSidebar({
         url: "/admin/images",
         icon: ImageIcon,
       },
-      {
-        title: "Quản lý thanh toán",
-        url: "/admin/packages",
-        icon: ShoppingCart,
-      },
+      // {
+      //   title: "Quản lý thanh toán",
+      //   url: "/admin/packages",
+      //   icon: ShoppingCart,
+      // },
       {
         title: "Cài đặt API",
         url: "/admin/api-settings",
